@@ -15,7 +15,7 @@
 
 ---
 
-欢迎关注我的微信公众号，接收更多好玩的东西。
+欢迎关注我的微信公众号，接收更多好玩的东西。xiaxiatu
 
 <div align="center"><img width="192px" height="192px" src="https://cdn.jsdelivr.net/gh/mzlogin/mzlogin.github.io/assets/images/qrcode.jpg"/></div>
 
